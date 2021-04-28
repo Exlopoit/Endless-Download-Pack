@@ -1,0 +1,18 @@
+-----------------------------------------
+zm_3rooms by ToXiC_R3.SiST / TeVeS / KoOsTeK
+---------------------------------------------------
+IMPORTANT ! : To make detail textures work properly, u have to run OpenGL Mode and type in console those 2 cvars:
+
+r_detailtextures 1
+r_detailtexturessupported 1
+
+---------------------------------------------------------------
+
+Mapping : ToXiC_R3.SiST
+
+Main Concepts : TeVeS, KoOsTeK
+
+========================================================
+=========================================
+
+Thanks for playing, and visit : www.cs-pzb.com.pl
